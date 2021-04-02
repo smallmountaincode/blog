@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Smallmountain</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Smallmountain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2021 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Mining: statistical analysis</title>
+      <link>http://example.org/posts/dm-statistics/</link>
+      <pubDate>Wed, 31 Mar 2021 08:47:11 +0100</pubDate>
+      
+      <guid>http://example.org/posts/dm-statistics/</guid>
+      <description>Introduction The main goal of data mining analysis is to extract knowledge from raw dataset, exploiting clustering, association rules and classification methods. Before performing these methods, a deep data understanding is mandatory. With data understanding we mean those processes aimed at: data semantic analysis: bringing out specific dataset feature semantics, statistical analysis: extracting from dataset columns statistical indexes and charts, assessing data quality: management of outliers and missing values, exploiting outcomes from statistical analysis, variables transformations: conversion of categorical data into numeric data type and normalization of numerical features, pairwise correlations and eventual elimination of redundant variables: elimination of redundant features, with high correlation index.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/posts/dm-statistics/</loc>
+    <lastmod>2021-03-31T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-03-31T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sardinian-weather-project/</loc>
+    <lastmod>2021-01-02T14:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-01-02T14:57:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog-list/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/cookies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>
